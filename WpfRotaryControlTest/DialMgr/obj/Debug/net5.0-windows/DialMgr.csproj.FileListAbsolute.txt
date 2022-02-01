@@ -1,0 +1,15 @@
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\bin\Debug\net5.0-windows\DialMgr.deps.json
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\bin\Debug\net5.0-windows\DialMgr.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\bin\Debug\net5.0-windows\ref\DialMgr.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\bin\Debug\net5.0-windows\DialMgr.pdb
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\bin\Debug\net5.0-windows\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\bin\Debug\net5.0-windows\RotaryControl.pdb
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.AssemblyInfoInputs.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.AssemblyInfo.cs
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.csproj.CoreCompileInputs.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.csproj.CopyComplete
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\ref\DialMgr.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.pdb
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\DialMgr\obj\Debug\net5.0-windows\DialMgr.csproj.AssemblyReference.cache

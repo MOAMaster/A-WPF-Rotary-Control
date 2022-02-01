@@ -1,0 +1,39 @@
+
+Revisions By Bruce Krell, PhD
+-----------------------------
+
+0. Based on rotary control donated by Leif Simon Goodwin at
+   https://www.codeproject.com/Articles/4044072/A-WPF-Rotary-Control.
+   Only implemented two of his controls. Implemented in C# rather than
+   xaml. Much easier to modify for me.
+
+1. Removed rotary control from xaml 
+   MainWindow and Canvas
+   Canvas enables locating the control anywhere
+     using SetLeft, SetTop
+
+2. Fixed some minor issues with RotaryControl.xaml.cs
+   Method MeasureString: replaced deprecated NumberSustitution with
+          VisualTreeHelper.GetDpi
+   Method CreateControl: added code to default FontWeight to Bold
+   Method NumberOfMajorTicks: replaced limitation with user supplied value
+     if too many supplied, labels will overlap, unreadable, easily fixed by programmer
+     current limitation had a bad side effect. range -20 - 20 resulted in a control
+         from -20 - 0, missing half the range of values
+   IMPORTANT: Added a method GetCurrentValue that used Dispatcher.Invoke to
+        return the value when needed by another thread. Otherwise, client application
+        throws a task exception. Accessing through this wrapper method enables
+        legal cross thread access to the value property of the control
+
+3. Created a wrapper class DialMgr that enables a client application to 
+   create an instance of rotary control with one line of code and a few
+   parameters.
+ 
+   Inside the class, replaced the XAML definitions with creation
+   using C# code. Thickened the border and changed the color. Lengthened
+   the pointer to extend all the way to the outer edge. Client application 
+   use danger zones: none, left, right, leftright, to control the transition 
+   to red for indicate danger as the pointer is moved.
+
+4. Wrote a simple test driver that includes a separate thread to demonstrate
+   the the value of the rotary control can be accessed across threads.

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotaryControl", "RotaryControl\RotaryControl.csproj", "{643060BA-EEE9-475A-B04D-096311A6E105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfRotaryControlTest", "WpfRotaryControlTest\WpfRotaryControlTest.csproj", "{F44EFAF5-8416-49FC-93B0-18487ABB7F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialMgr", "DialMgr\DialMgr.csproj", "{F788E2B1-5A7A-421E-BD41-70D96C4DCCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643060BA-EEE9-475A-B04D-096311A6E105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643060BA-EEE9-475A-B04D-096311A6E105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643060BA-EEE9-475A-B04D-096311A6E105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643060BA-EEE9-475A-B04D-096311A6E105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44EFAF5-8416-49FC-93B0-18487ABB7F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44EFAF5-8416-49FC-93B0-18487ABB7F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44EFAF5-8416-49FC-93B0-18487ABB7F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44EFAF5-8416-49FC-93B0-18487ABB7F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F788E2B1-5A7A-421E-BD41-70D96C4DCCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F788E2B1-5A7A-421E-BD41-70D96C4DCCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F788E2B1-5A7A-421E-BD41-70D96C4DCCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F788E2B1-5A7A-421E-BD41-70D96C4DCCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1376F4-B359-43FB-A764-B92D2F2EC4B1}
+	EndGlobalSection
+EndGlobal

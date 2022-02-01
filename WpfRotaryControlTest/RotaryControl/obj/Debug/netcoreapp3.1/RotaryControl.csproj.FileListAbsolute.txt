@@ -1,0 +1,14 @@
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\netcoreapp3.1\RotaryControl.deps.json
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\netcoreapp3.1\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\netcoreapp3.1\RotaryControl.pdb
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.csproj.AssemblyReference.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.baml
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.g.cs
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl_MarkupCompile.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.g.resources
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.AssemblyInfoInputs.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.AssemblyInfo.cs
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.csproj.CoreCompileInputs.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\netcoreapp3.1\RotaryControl.pdb

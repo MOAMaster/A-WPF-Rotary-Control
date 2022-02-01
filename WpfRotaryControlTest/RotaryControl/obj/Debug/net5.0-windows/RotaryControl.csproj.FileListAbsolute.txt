@@ -1,0 +1,16 @@
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\net5.0-windows\RotaryControl.deps.json
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\net5.0-windows\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\net5.0-windows\ref\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\bin\Debug\net5.0-windows\RotaryControl.pdb
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.csproj.AssemblyReference.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.baml
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.g.cs
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl_MarkupCompile.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.g.resources
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.AssemblyInfoInputs.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.AssemblyInfo.cs
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.csproj.CoreCompileInputs.cache
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\ref\RotaryControl.dll
+D:\VSTPlugins2019\KnobsWPF\WpfRotaryControlTest\WpfRotaryControlTest\RotaryControl\obj\Debug\net5.0-windows\RotaryControl.pdb

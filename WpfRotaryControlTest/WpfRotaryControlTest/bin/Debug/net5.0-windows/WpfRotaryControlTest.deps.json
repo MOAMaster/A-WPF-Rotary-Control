@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfRotaryControlTest/1.0.0": {
+        "dependencies": {
+          "DialMgr": "1.0.0",
+          "RotaryControl": "1.0.0"
+        },
+        "runtime": {
+          "WpfRotaryControlTest.dll": {}
+        }
+      },
+      "DialMgr/1.0.0": {
+        "dependencies": {
+          "RotaryControl": "1.0.0"
+        },
+        "runtime": {
+          "DialMgr.dll": {}
+        }
+      },
+      "RotaryControl/1.0.0": {
+        "runtime": {
+          "RotaryControl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfRotaryControlTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialMgr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RotaryControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

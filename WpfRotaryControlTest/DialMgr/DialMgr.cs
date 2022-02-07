@@ -199,6 +199,27 @@ namespace DialMgr
 
             return Dial;
         }
+        public (TextBlock, RotaryControls.RotaryControl) CreateLabelDialCombination(string LabelText, double LabelLeft, double LabelTop,
+                                                                                      double DialMin, double DialMax, double DialCurrent, double DialTick,
+                                                                                      DangerZones DangerZone, double DialLeft, double DialTop,
+                                                                                      Canvas Container)
+        {
+            TextBlock TheLabel = new TextBlock();
+            TheLabel.Text = LabelText;
+            TheLabel.FontWeight = FontWeights.Bold;
+            TheLabel.FontSize = 15;
+            Container.Children.Add(TheLabel);
+            Canvas.SetLeft(TheLabel, LabelLeft);
+            Canvas.SetTop(TheLabel, LabelTop);
+
+            RotaryControls.RotaryControl TheDial = CreateDetailedDial(MinValue: DialMin, MaxValue: DialMax, CurrentValue: DialCurrent, TickIncrement: DialTick,
+                                                                      NumberMinorTicks: 5, DialScaleFactor: 0.8, FontScaleFactor: 1.2, DangerZone);
+            Container.Children.Add(TheDial);
+            Canvas.SetLeft(TheDial, DialLeft);
+            Canvas.SetTop(TheDial, DialTop);
+
+            return (TheLabel, TheDial);
+        }
 
     }
 }

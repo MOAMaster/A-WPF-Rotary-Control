@@ -153,13 +153,13 @@ namespace DialMgr
                 case DangerZones.DangerLow:
                     Segments = new RotaryControls.RotaryControlSegment[4];
                     Segments[0] = new RotaryControls.RotaryControlSegment();
-                    Segments[0].Fill = new SolidColorBrush(Colors.YellowGreen); Segments[0].AngleInDegrees = 60;
+                    Segments[0].Fill = new SolidColorBrush(Colors.Crimson); Segments[0].AngleInDegrees = 60;
                     Segments[1] = new RotaryControls.RotaryControlSegment();
-                    Segments[1].Fill = new SolidColorBrush(Colors.Gold); Segments[1].AngleInDegrees = 30;
+                    Segments[1].Fill = new SolidColorBrush(Colors.Orange); Segments[1].AngleInDegrees = 30;
                     Segments[2] = new RotaryControls.RotaryControlSegment();
-                    Segments[2].Fill = new SolidColorBrush(Colors.Orange); Segments[2].AngleInDegrees = 30;
+                    Segments[2].Fill = new SolidColorBrush(Colors.Gold); Segments[2].AngleInDegrees = 30;
                     Segments[3] = new RotaryControls.RotaryControlSegment();
-                    Segments[3].Fill = new SolidColorBrush(Colors.Crimson); Segments[3].AngleInDegrees = 30;
+                    Segments[3].Fill = new SolidColorBrush(Colors.YellowGreen); Segments[3].AngleInDegrees = 30;
                     break;
                 case DangerZones.DangerHigh:
                     Segments = new RotaryControls.RotaryControlSegment[4];
